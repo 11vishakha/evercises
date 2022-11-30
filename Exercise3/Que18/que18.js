@@ -20,7 +20,7 @@ class BookFair
     display(){
         document.write("Book name: "+this.Bname+"<br>")
         document.write("Price of book: "+this.double_price+"<br>")
-        document.write("Price after discount:"+this.d)
+        document.write("after discount:"+this.d)
     }
 
 }
